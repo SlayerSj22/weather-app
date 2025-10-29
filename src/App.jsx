@@ -70,7 +70,7 @@ function App() {
     <div className="min-h-screen bg-gradient-to-br from-blue-100 via-sky-200 to-blue-400 flex flex-col items-center justify-center p-4">
       <div className="bg-white/80 backdrop-blur-md p-6 rounded-3xl shadow-xl w-full max-w-md transition-all duration-300 ease-in-out">
         <h1 className="text-3xl font-bold text-center mb-5 text-blue-800 drop-shadow-sm">
-          🌤️ Weather Finder
+          🌤️ WeatherWise
         </h1>
 
         {/* 🔍 Search Bar */}
